@@ -15,4 +15,5 @@ You can view posts and visit links as a visitor, create your own account, and as
 * MySQL
 * Sequelize (npm pacakge for integrating MySQL and Node.js)
 * bcrypt (npm package for password hashing)
+* Handlebars
 * Heroku 
