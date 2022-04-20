@@ -6,7 +6,7 @@ This application creates the database and back-end structure for a news aggregat
 You can view posts and visit links as a visitor, create your own account, and as an authenticated user you can comment on and upvote other posts as well as adding your own. You can edit titles of your own posts and delete posts as well.
 
 ## Deployed Application (Heroku):
- https://boiling-cliffs-29886.herokuapp.com/ 
+https://just-tech-news-202.herokuapp.com/
 
 ## Technologies Used: 
 * Javascript ES6
